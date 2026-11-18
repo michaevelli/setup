@@ -1,0 +1,341 @@
+{
+    "description": "Hyper Numpad",
+    "manipulators": [
+        {
+            "description": "command + 1 = P1",
+            "from": {
+                "key_code": "1",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_1" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + 2 = P2",
+            "from": {
+                "key_code": "2",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_2" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + 3 = P3",
+            "from": {
+                "key_code": "3",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_3" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + 4 = P4",
+            "from": {
+                "key_code": "4",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_4" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + 5 = P5",
+            "from": {
+                "key_code": "5",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_5" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + 6 = P6",
+            "from": {
+                "key_code": "6",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_6" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + 7 = P7",
+            "from": {
+                "key_code": "7",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_7" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + 8 = P8",
+            "from": {
+                "key_code": "8",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_8" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + 9 = P9",
+            "from": {
+                "key_code": "9",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_9" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + 0 = P0",
+            "from": {
+                "key_code": "0",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_0" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + u = P4",
+            "from": {
+                "key_code": "u",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_4" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + i = P5",
+            "from": {
+                "key_code": "i",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_5" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + o = 6",
+            "from": {
+                "key_code": "o",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_6" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + j = P1",
+            "from": {
+                "key_code": "j",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_1" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + k = P2",
+            "from": {
+                "key_code": "k",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_2" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + l = P3",
+            "from": {
+                "key_code": "l",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_3" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + m = P0",
+            "from": {
+                "key_code": "m",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_0" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + hyphen = P-",
+            "from": {
+                "key_code": "hyphen",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_hyphen" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + equal_sign = P+",
+            "from": {
+                "key_code": "equal_sign",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_plus" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + p = P+",
+            "from": {
+                "key_code": "p",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_plus" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + semicolon = P*",
+            "from": {
+                "key_code": "semicolon",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_asterisk" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + slash = P/",
+            "from": {
+                "key_code": "slash",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_slash" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + period = P.",
+            "from": {
+                "key_code": "period",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_period" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + comma = P00",
+            "from": {
+                "key_code": "comma",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [
+                { "key_code": "keypad_0" },
+                { "key_code": "keypad_0" }
+            ],
+            "type": "basic"
+        },
+        {
+            "description": "command + w = up",
+            "from": {
+                "key_code": "w",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "up_arrow" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + a = left",
+            "from": {
+                "key_code": "a",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "left_arrow" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + s = down",
+            "from": {
+                "key_code": "s",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "down_arrow" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + d = right",
+            "from": {
+                "key_code": "d",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "right_arrow" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + q = page up",
+            "from": {
+                "key_code": "q",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "page_up" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + e = page down",
+            "from": {
+                "key_code": "e",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "page_down" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + enter = PEnter",
+            "from": {
+                "key_code": "return_or_enter",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_enter" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + space = PEnter",
+            "from": {
+                "key_code": "spacebar",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "keypad_enter" }],
+            "type": "basic"
+        },
+        {
+            "description": "command + up arrow = mouse up",
+            "from": {
+                "key_code": "up_arrow",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "mouse_key": { "y": -1600 } }],
+            "type": "basic"
+        },
+        {
+            "description": "command + down arrow = mouse down",
+            "from": {
+                "key_code": "down_arrow",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "mouse_key": { "y": 1600 } }],
+            "type": "basic"
+        },
+        {
+            "description": "command + left arrow = mouse left",
+            "from": {
+                "key_code": "left_arrow",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "mouse_key": { "x": -1600 } }],
+            "type": "basic"
+        },
+        {
+            "description": "command + right arrow = mouse right",
+            "from": {
+                "key_code": "right_arrow",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "mouse_key": { "x": 1600 } }],
+            "type": "basic"
+        },
+        {
+            "description": "command + backspace = backspace",
+            "from": {
+                "key_code": "delete_or_backspace",
+                "modifiers": { "mandatory": ["right_command", "right_control", "right_shift", "right_option"] }
+            },
+            "to": [{ "key_code": "delete_or_backspace" }],
+            "type": "basic"
+        }
+    ]
+}
